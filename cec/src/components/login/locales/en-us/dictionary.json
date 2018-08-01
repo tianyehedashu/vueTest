@@ -1,0 +1,13 @@
+{
+    "title": "Ericsson CEC",
+    "username": "Username",
+    "password": "Password",
+    "copyright": "© Ericsson Enterprise AB, 2018. All rights reserved.",
+    "licenceHeader": "IMPORTANT LEGAL NOTICE",
+    "licenceContent": "If you are not an authorized cec user, please leave.",
+    "licenceButton": "OK",
+    "missingUsername": "Please enter a username.",
+    "missingPassword": "Please enter a password.",
+    "missingUsernamePassword": "Please enter a username and password.",
+    "invalidUsernamePassword": "Invalid username/password. Please try again."
+}
